@@ -3,7 +3,7 @@ title: Home
 banner:
   show_scroll_button: true
   subtitle: |-
-    ![](/images/haley-phelps-s-llxyh3gzi-unsplash.jpg)
+
 
     Aliquam scelerisque rutrum nec donec lorem ipsum dolor sit amet\
     porttitor ornare tempus dignissim felis magna commodo.
