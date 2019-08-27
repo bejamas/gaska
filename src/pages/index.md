@@ -78,7 +78,7 @@ cta:
       is_scrolly: false
       label: Get Started
       url: /generic
-  background_style: style1
+  background_style: style3
   enabled: true
   text: >-
     Ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum. Mauris at
