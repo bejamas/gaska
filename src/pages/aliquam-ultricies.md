@@ -4,19 +4,21 @@ display_header: true
 subtitle: >-
   Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus volutpat at.
   Nunc rutrum turpis.
-content_img: images/pic06.jpg
+content_img: /images/pic02.jpg
 home:
   highlights:
     enabled: true
-    weight: 1
     excerpt: >-
       Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
       purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
       finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
       ornare, justo non.
     home_img:
-      path: images/pic01.jpg
       data_position: center right
+      path: images/pic01.jpg
+    weight: 1
+  spotlights:
+    weight: 2
 template: page
 ---
 
